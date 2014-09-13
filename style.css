@@ -1,0 +1,108 @@
+<style>
+
+
+
+    html, body {
+        width: 100%;
+        height: 100%;
+        margin: 10px 10px;
+
+    }
+
+    nav {
+        background: #333;
+        width: 100%;
+        color: #fff;
+        display: inline-flex;
+        flex-direction: row;
+    }
+
+    .button {
+        padding: 20px;
+        margin-left: 10px;
+        font-family: "arial";
+        font-size: 32px;
+
+    }
+
+    .featured {
+        width: 85%;
+        height: 500px;
+        margin: 0 auto;
+        background: white;
+    }
+
+    .red-box {
+        width: 28%;
+        height: 49%;
+        margin: 15px;
+        display: inline-block;
+        border: 3px solid #efaeb1;
+        border-radius: 3px;
+
+
+
+    }
+
+    .red {
+        background-color: #efaeb1;
+    }
+    .yellow-box {
+        width: 28%;
+        height: 49%;
+        margin: 15px;
+        display: inline-block;
+        border: 3px solid #e8e492;
+        border-radius: 3px;
+
+    }
+
+    .yellow {
+        background-color: #e8e492;
+    }
+
+    .green-box {
+        width: 28%;
+        height: 49%;
+        margin: 15px;
+        display: inline-block;
+        border: 3px solid #b0e892;
+        border-radius: 3px;
+
+    }
+
+    .green {
+        background-color: #b0e892;
+    }
+
+    .grey-box {
+        width: 28%;
+        height: 49%;
+        margin: 15px;
+        display: inline-block;
+        border: 3px solid #d2d2d0;
+        border-radius: 3px;
+
+
+    }
+
+    .grey {
+        background-color: #d2d2d0;
+
+    }
+
+.title {
+    width: 100%;
+    height: 20%;
+
+}
+
+    .box {
+        display: block;
+        padding: 10px;
+        margin: 0px 10px;
+        margin-top: 8px;
+        border: 2px solid #d2d2d0;
+        border-radius: 3px;
+    }
+</style>
